@@ -1,7 +1,5 @@
 # CEI-Week1-Pandas-Assignment
 
-# CEI Week 1 Pandas Assignment
-
 ## Objective
 Learn Python basics and perform basic data exploration and cleaning using Pandas.
 
